@@ -8,7 +8,11 @@ Saint Petersburg
 
 ### _My contacts_: 
 - +7 (951) 686-13-20 
-- ivanina.anna@gmail.com 
+- ivanina.anna@gmail.com
+
+### _Summary_:
+My experience will not be presented in this summary, since it is not in this area yet. I have experience and knowledge in the field of economics. I want to gain new knowledge in the field of web development and change my profession in the future.
+I can learn new things.
 
 ### _Skills_:
 * Literacy
