@@ -1,0 +1,8 @@
+div {
+    width: 1024px;
+    margin: 0 auto;
+}
+.discription{background-color: aquamarine;}
+.parent {display: flex;
+    flex-direction: row;}
+.child { }
