@@ -2,7 +2,20 @@ div {
     width: 1024px;
     margin: 0 auto;
 }
-.discription{background-color: aquamarine;}
-.parent {display: flex;
-    flex-direction: row;}
-.child { }
+
+.discription {
+    flex: 3 !important;
+}
+
+.parent {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.child {
+    flex: 1;
+}
+
+.summary, .education {
+    flex: 1 100%;
+}
